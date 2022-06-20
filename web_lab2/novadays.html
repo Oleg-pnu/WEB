@@ -1,51 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Сьогодення</title>
-</head>
-<body>
-    <h1 id="h1">Сьогодення Павліва Олега Михайловича</h1>
-    <a href="index.html">Назад на головну</a>
 
+<head>
+  <meta charset="UTF-8">
+  <title>Сьогодення</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 22px;
+    }
+    .back_to_main {
+      font-style: italic;
+    }
+    h2{
+      text-align: center;
+    }
+    ul>li:nth-child(odd){
+      background-color: darkgray;
+      color:maroon;
+    }
+    ol>li:nth-child(3){ 
+      cursor: pointer;
+    }
+    ol>li:nth-child(5){
+      cursor: pointer;
+    }
+    ol>li:nth-child(4){
+      background-color: yellow;
+      color: black;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Сьогодення Павліва Олега Михайловича</h1>
+  </header>
+  <section>
+    <a class="back_to_main" href="index.html">Назад на Головну</a>
     <h2>Мій типовий список покупок</h2>
+
     <ul>
-        <li>Напої</li>
+        <li>Напої
         <ul>
             <li> Вода негазована </li>
             <li> Пепсі </li>
             <li> Сік </li>
         </ul>
-        <li>Соуси</li>
+        </li>
+        <li>Соуси
         <ul>
             <li>Майонез</li>
             <li>Кетчуп</li>
+            <li>ГІрчиця</li>
+            <li>Соєвий</li>
+            <li>Солодкий</li>
+            <li>Малиновий</li>
         </ul>
-        <li>Інші продукти</li>
+        </li>
+        <li>Інші продукти
         <ul>
             <li>Сир</li>
             <li>Макарони</li>  
             <li>Шаурма</li>
             <li>Риба</li>
         </ul>
+        </li>
+        <li>Хімія
+        <ul>
+            <li>Чіпси</li>
+            <li>Сухарики</li>
+            <li>Горішки</li>
+            <li>Файна бульба</li>
+        </ul>
+        </li>
     </ul>
 
     <h2>Мій ранковий сніданок</h2>
     <ol>
-        <li>Підготовка до приготування</li>
+        <li>Підготовка до приготування
         <ol>
             <li>Розігріти сковорідку</li>
             <li>Взяти 2 яйця</li>
             <li>Різні види овочів</li>
             <li>Налити олії на сковорідку</li>
+            <li>Підготувати часник</li>
         </ol>
-        <li>Приготування</li>
+        </li>
+        <li>Приготування
         <ol>
             <li>Розбити яйце на сковорідку</li>
             <li>Посолити</li>
             <li>Додати овочів</li>
+            <li>Жарити до готовності</li>
         </ol>
+        </li>
     </ol>
-
+    <section>
 </body>
 </html>
