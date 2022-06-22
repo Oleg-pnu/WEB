@@ -1,0 +1,33 @@
+{"catalog_items":
+    [{  "id":1,
+        "name":"Product 1",
+        "shortname":"D1",
+        "description":"The classification of goods, combining them by common features, makes it possible to study the individual species and varieties that are characterized by these features. It creates the prerequisites for automated accounting, planning, forecasting the range, building price lists, studying demand and ordering orders. The purpose of the classification is that it allows you to study the consumer properties of homogeneous groups (subgroups) of goods, to establish the optimal level of properties of goods, as well as to develop group methods of research and evaluation of the quality of goods.",
+        "price":621
+    },
+    {  "id":1,
+        "name":"Product 2",
+        "shortname":"D2",
+        "description":"The classification of goods, combining them by common features, makes it possible to study the individual species and varieties that are characterized by these features. It creates the prerequisites for automated accounting, planning, forecasting the range, building price lists, studying demand and ordering orders. The purpose of the classification is that it allows you to study the consumer properties of homogeneous groups (subgroups) of goods, to establish the optimal level of properties of goods, as well as to develop group methods of research and evaluation of the quality of goods.",
+        "price":221
+    },
+    {  "id":1,
+        "name":"Product 3",
+        "shortname":"D3",
+        "description":"The classification of goods, combining them by common features, makes it possible to study the individual species and varieties that are characterized by these features. It creates the prerequisites for automated accounting, planning, forecasting the range, building price lists, studying demand and ordering orders. The purpose of the classification is that it allows you to study the consumer properties of homogeneous groups (subgroups) of goods, to establish the optimal level of properties of goods, as well as to develop group methods of research and evaluation of the quality of goods.",
+        "price":241
+    },
+    {  "id":1,
+        "name":"Product 4",
+        "shortname":"D4",
+        "description":"The classification of goods, combining them by common features, makes it possible to study the individual species and varieties that are characterized by these features. It creates the prerequisites for automated accounting, planning, forecasting the range, building price lists, studying demand and ordering orders. The purpose of the classification is that it allows you to study the consumer properties of homogeneous groups (subgroups) of goods, to establish the optimal level of properties of goods, as well as to develop group methods of research and evaluation of the quality of goods.",
+        "price":231
+    },
+    {  "id":1,
+        "name":"Product 5",
+        "shortname":"D5",
+        "description":"The classification of goods, combining them by common features, makes it possible to study the individual species and varieties that are characterized by these features. It creates the prerequisites for automated accounting, planning, forecasting the range, building price lists, studying demand and ordering orders. The purpose of the classification is that it allows you to study the consumer properties of homogeneous groups (subgroups) of goods, to establish the optimal level of properties of goods, as well as to develop group methods of research and evaluation of the quality of goods.",
+        "price":721
+    }
+    ],
+        "category":{"name":"Category D","shortname":"D"}}
